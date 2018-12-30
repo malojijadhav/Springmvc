@@ -1,2 +1,2 @@
-# Springmvccrud
+# Springmvc
 Mvc crud operation
